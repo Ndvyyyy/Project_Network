@@ -1,0 +1,7 @@
+E:\Network Programming\ExamNetworkProgramming\Parent_Client\Parent_Client\bin\Debug\Parent_Client.exe.config
+E:\Network Programming\ExamNetworkProgramming\Parent_Client\Parent_Client\bin\Debug\Parent_Client.exe
+E:\Network Programming\ExamNetworkProgramming\Parent_Client\Parent_Client\bin\Debug\Parent_Client.pdb
+E:\Network Programming\ExamNetworkProgramming\Parent_Client\Parent_Client\obj\Debug\Parent_Client.csproj.AssemblyReference.cache
+E:\Network Programming\ExamNetworkProgramming\Parent_Client\Parent_Client\obj\Debug\Parent_Client.csproj.CoreCompileInputs.cache
+E:\Network Programming\ExamNetworkProgramming\Parent_Client\Parent_Client\obj\Debug\Parent_Client.exe
+E:\Network Programming\ExamNetworkProgramming\Parent_Client\Parent_Client\obj\Debug\Parent_Client.pdb

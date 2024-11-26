@@ -1,0 +1,7 @@
+E:\Network Programming\ExamNetworkProgramming\Studient_Client\Studient_Client\bin\Debug\Studient_Client.exe.config
+E:\Network Programming\ExamNetworkProgramming\Studient_Client\Studient_Client\bin\Debug\Studient_Client.exe
+E:\Network Programming\ExamNetworkProgramming\Studient_Client\Studient_Client\bin\Debug\Studient_Client.pdb
+E:\Network Programming\ExamNetworkProgramming\Studient_Client\Studient_Client\obj\Debug\Studient_Client.csproj.AssemblyReference.cache
+E:\Network Programming\ExamNetworkProgramming\Studient_Client\Studient_Client\obj\Debug\Studient_Client.csproj.CoreCompileInputs.cache
+E:\Network Programming\ExamNetworkProgramming\Studient_Client\Studient_Client\obj\Debug\Studient_Client.exe
+E:\Network Programming\ExamNetworkProgramming\Studient_Client\Studient_Client\obj\Debug\Studient_Client.pdb

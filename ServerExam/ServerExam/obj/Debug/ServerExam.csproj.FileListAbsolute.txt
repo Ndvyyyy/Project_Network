@@ -1,0 +1,7 @@
+E:\Network Programming\ExamNetworkProgramming\ServerExam\ServerExam\bin\Debug\ServerExam.exe.config
+E:\Network Programming\ExamNetworkProgramming\ServerExam\ServerExam\bin\Debug\ServerExam.exe
+E:\Network Programming\ExamNetworkProgramming\ServerExam\ServerExam\bin\Debug\ServerExam.pdb
+E:\Network Programming\ExamNetworkProgramming\ServerExam\ServerExam\obj\Debug\ServerExam.csproj.AssemblyReference.cache
+E:\Network Programming\ExamNetworkProgramming\ServerExam\ServerExam\obj\Debug\ServerExam.csproj.CoreCompileInputs.cache
+E:\Network Programming\ExamNetworkProgramming\ServerExam\ServerExam\obj\Debug\ServerExam.exe
+E:\Network Programming\ExamNetworkProgramming\ServerExam\ServerExam\obj\Debug\ServerExam.pdb
